@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.195caa75.css",
+    "main.js": "/static/js/main.e59168b9.js",
+    "static/media/saleImgTwo.webp": "/static/media/saleImgTwo.b79c7dd615e0b8e2424d.webp",
+    "static/media/saleImgOne.webp": "/static/media/saleImgOne.4f0c6a6161bc4e8ee07c.webp",
+    "static/media/bannerImgTwo.webp": "/static/media/bannerImgTwo.5f918fdb72f967f7c5d0.webp",
+    "static/media/spfTwo.webp": "/static/media/spfTwo.e2ed5643793b064c4b24.webp",
+    "static/media/newArrOne.webp": "/static/media/newArrOne.2ddc9f1b761387adc646.webp",
+    "static/media/productOfTheYear.webp": "/static/media/productOfTheYear.be8d777cccafb17b2ed7.webp",
+    "static/media/bannerImgOne.webp": "/static/media/bannerImgOne.9298a191540914ca462a.webp",
+    "static/media/saleImgThree.webp": "/static/media/saleImgThree.71f5d0672b8e12b686b4.webp",
+    "static/media/spfThree.webp": "/static/media/spfThree.21eae729c689432cfb49.webp",
+    "static/media/bestSellerThree.webp": "/static/media/bestSellerThree.25cfb60b9be00455d251.webp",
+    "static/media/bestSellerOne.webp": "/static/media/bestSellerOne.e786e5c1051fcb42a893.webp",
+    "static/media/bestSellerFour.webp": "/static/media/bestSellerFour.9e09b98c21f0f650b1f4.webp",
+    "static/media/newArrThree.webp": "/static/media/newArrThree.a8b3d2dd4454a0d28776.webp",
+    "static/media/newArrFour.webp": "/static/media/newArrFour.a37eb6c32bc36a9158c7.webp",
+    "static/media/bannerImgThree.webp": "/static/media/bannerImgThree.2c4af53a001b96be9da8.webp",
+    "static/media/bestSellerTwo.webp": "/static/media/bestSellerTwo.c760f1700d744a470d30.webp",
+    "static/media/spfOne.webp": "/static/media/spfOne.8d7caf0ba36489c2f6da.webp",
+    "static/media/newArrTwo.webp": "/static/media/newArrTwo.5c668dc2c4550392ca25.webp",
+    "static/media/payment.png": "/static/media/payment.3e00cc601c9e7fc1e7d3.png",
+    "static/media/spfFour.webp": "/static/media/spfFour.d9c31df88c2e6354be4c.webp",
+    "static/media/emptyCart.png": "/static/media/emptyCart.230e4848b62fb3cab325.png",
+    "index.html": "/index.html",
+    "main.195caa75.css.map": "/static/css/main.195caa75.css.map",
+    "main.e59168b9.js.map": "/static/js/main.e59168b9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.195caa75.css",
+    "static/js/main.e59168b9.js"
+  ]
+}
